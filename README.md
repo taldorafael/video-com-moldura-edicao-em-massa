@@ -1,4 +1,4 @@
-# Moldura Studio
+# Editor Automático que Adiciona em massa Moldura em Vídeos
 
 Aplicação web para **criar, personalizar e aplicar molduras em vídeos diretamente no navegador**.
 
