@@ -1,0 +1,13 @@
+{
+  "name": "moldura-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editor de molduras para vídeos — 100% local com FFmpeg.wasm",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
