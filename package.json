@@ -1,9 +1,0 @@
-{
-  "name": "moldura-studio",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Aplicação web para criar e aplicar molduras em vídeos diretamente no navegador.",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
